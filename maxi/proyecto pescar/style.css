@@ -1,0 +1,286 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* COMIENZO DEL NAV BAR */
+
+
+.nav-var-container {
+    width: 100%;
+    height: 5.2em;
+    background-color: rgb(112, 112, 250);
+    position: fixed;
+    display: flex;
+    z-index: 1000;
+}
+.nav-var__div-img-logo {
+    height: 5em;
+}
+.nav-var__div-a {
+    display: inline-block;
+    width: 5em;
+    height: 4em;
+    z-index: 100;
+    position: absolute;
+    top: 0.5em;
+    left: 2em;
+    border-radius: 1.4em;
+}
+.nav-var__ul {
+    display: flex;
+    padding-left: 140%;
+}
+.nav-var__ul--li {
+    padding: 1em;
+    list-style: none;
+    font-size: 1.6em;
+}
+.nav-var__ul--li__a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* FIN DE NAV BAR */
+
+/* COMIENZO DEL PRIMER DIV */
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.container__first--div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 65%;
+    position: absolute;
+    top: 5.2em;
+}
+.first-first__div--body {
+    width: 50%;
+}
+.div-para-organizar-first-body {
+    position: absolute;
+    left: 5em;
+    top: 5.5em;
+}
+.h1-first-first__div--body {
+    font-size: 4.2em;
+}
+.p-first-first__div--body {
+    font-size: 1.4em;
+    color: rgb(66, 65, 65);
+}
+.button-first-first__div--body {
+    width: 100%;
+    padding: 2.5%;
+    border-radius: 0.5em;
+    border: 0;
+    margin-top: 10%;
+    background-color: rgb(112, 112, 250);
+    margin-left: 0%;
+}
+.a-button-first-first__div--body {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    width: 100%;
+}
+.iframe-nuestro-video {
+    width: 100%;
+    height: 80%;
+    margin-top: 2em;
+    border-radius: 0.3em;
+}
+.div-indicacion-flechas {
+    width: 100%;
+    height: 23%;
+    position: absolute;
+    top: 77%;
+}
+.imagen-indicacion-1 {
+    position: absolute;
+    height: 8em;
+    top: 3%;
+    left: 15%;
+}
+.imagen-indicacion-2 {
+    position: absolute;
+    height: 8em;
+    top: 3%;
+    left: 75%;
+}
+.h2-indicacion-flecha {
+    position: absolute;
+    left: 28%;
+    top: 35%;
+    font-size: 2.4em;
+}
+
+
+/* FIN DEL PRIMER DIV */
+
+/* COMIENZO DEL SEGUNDO DIV */
+
+
+.container__second--div {
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    top: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.first-second__div--body {
+    width: 50%;
+}
+.div-para-organizar-second-body {
+    position: absolute;
+    top: 35%;
+    left: 7%;
+}
+.h2-second-first__div--body {
+    font-size: 1.7em;
+    padding-bottom: 4%;
+}
+.p-second-first__div--body {
+    font-size: 1.1em;
+}
+.img-second-second-div-body {
+    width: 100%;
+    height: 80%;
+    margin-top: 4.2em;
+    border: 1px solid rgb(198, 198, 198);
+}
+.container__second-second-div {
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    top: 160%;
+}
+.first-div-container-second-second-div {
+    position: absolute;
+    left: 38%;
+}
+.h2-container-second-second-div {
+    margin-top: 10%;
+    font-size: 2.1em;
+    margin-left: 7%;
+}
+.p-container-second-second-div {
+    margin-top: 2%;
+    font-size: 1.2em;
+    margin-left: 5%;
+}
+.div-organizador-empresas-one {
+    margin-left: -25%;
+}
+.div-organizador-empresas-two {
+    margin-top: 2%;
+    margin-left: 14%;
+    font-size: 1.2em;
+}
+.second-div-container-second-second-div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-top: 15%;
+}
+.organizador-logo-empresa1 {
+    margin-left: 18%;
+    width: 60%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.organizador-logo-empresa2 {
+    margin-left: 18%;
+    width: 60%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.organizador-logo-empresa3 {
+    margin-left: 18%;
+    width: 60%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* FIN DE SEGUNDO DIV */
+
+
+.container__third-div {
+    width: 100%;
+    height: 70%;
+    position: absolute;
+    margin-top: 123%;
+    display: flex;
+}
+.h1-quienes-somos {
+    font-size: 2.4em;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 38%;
+}
+.organizador-quienes-somos {
+    width: 100%;
+    height: 80%;
+    background-color: rgba(120, 120, 120 );
+    margin-top: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.card {
+    width: 15%;
+    height: 80%;
+    border: 1px solid gray;
+    margin-top: 3%;
+    border-radius: 10px;
+    position: relative;
+}
+.redondo {
+    width: 100%;
+    height: 50%;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 9;
+}
+.div-foto-pablo {
+    width: 60%;
+    height: 45%;
+    background-color: black;
+    margin-left: 20%;
+    margin-top: 70%;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+.esquina-izquierda {
+    width: 50%;
+    height: 30%;
+    background-color: black;
+    border-radius: 10%;
+    position: absolute;
+    top: 0%;
+    z-index: 8;
+}
+.esquina-derecha {
+    width: 50%;
+    height: 30%;
+    background-color: black;
+    border-radius: 10%;
+    position: absolute;
+    top: 0%;
+    right: 0;
+    z-index: 7;
+}
