@@ -1,0 +1,64 @@
+{
+    "empleos": [
+        {
+            "id": 1,
+            "img": "despegar.png",
+            "name": "Front End Developer",
+            "description": "Despegar.com es una empresa de turismo online que ofrece servicios de reservas de vuelos, hoteles, paquetes turísticos, alquiler de autos, seguros de viaje y otros servicios relacionados con el turismo. Despegar.com es la empresa líder en la industria de turismo online en América Latina y opera en Argentina, Brasil, Chile, Colombia, México, Perú y Uruguay."
+        },
+        {
+            "id": 2,
+            "img": "amazon.png",
+            "name": "Full Stack Developer",
+            "description": "Amazon.com, Inc. es una empresa multinacional estadounidense de comercio electrónico y servicios de computación en la nube con sede en Seattle, Washington. Es la mayor empresa de comercio electrónico del mundo por ingresos y el mayor minorista en línea en Estados Unidos."
+        },
+        {
+            "id": 3,
+            "img": "pescar.png",
+            "name": "Soporte Técnico",
+            "description": "Fundacion Pescar es una organización sin fines de lucro que trabaja en la prevención y tratamiento de las adicciones. Nuestro objetivo es brindar a las personas que sufren de adicciones, y a sus familias, una oportunidad de recuperación y reinserción social."
+        },
+        {
+            "id": 4,
+            "img": "santander.png",
+            "name": "Front End Developer",
+            "description": "Santander es un grupo financiero español con sede en Madrid. Es el mayor banco de España y el quinto de Europa por capitalización bursátil. Santander es el banco más grande de América Latina por capitalización bursátil y el segundo por activos totales."
+        },
+        {
+            "id": 5,
+            "img": "uala.png",  
+            "name": "Back End Developer",
+            "description": "Uala es una empresa argentina de servicios financieros que ofrece una tarjeta de crédito y una cuenta corriente digital. La empresa fue fundada en 2017 por el ex ejecutivo de Mercado Libre, Martín Migoya, y el ex ejecutivo de Google, Sebastián Sosa."
+        },
+        {
+            "id": 6,
+            "img": "accenture.png",
+            "name": "Help Desk",
+            "description": "Accenture es una empresa multinacional de consultoría, tecnología y servicios profesionales con sede en Dublín, Irlanda. Es la mayor empresa de consultoría del mundo por ingresos y la segunda por número de empleados, con más de 459.000 empleados en más de 120 países."
+        },
+        {
+            "id": 7,
+            "img": "globant.png",
+            "name": "Help Desk",
+            "description": "Globant es una empresa de servicios de tecnología con sede en Buenos Aires, Argentina. Es una compañía de desarrollo de software que ofrece servicios de consultoría, desarrollo de software, diseño de productos y servicios de marketing digital."
+        },
+        {
+            "id": 8,
+            "img": "salesforce.png",
+            "name": "Full Stack Developer",
+            "description": "Salesforce.com, Inc. es una empresa estadounidense de software de CRM (Customer Relationship Management) y ERP (Enterprise Resource Planning) con sede en San Francisco, California. Es la empresa de software de CRM más grande del mundo por ingresos y la tercera empresa de software más grande del mundo por capitalización bursátil."
+        },
+        {
+            "id": 9,
+            "img": "mercadolibre.png",
+            "name": "Back End Developer",
+            "description": "Mercado Libre es una empresa argentina de comercio electrónico con sede en Buenos Aires. Es la empresa de comercio electrónico más grande de América Latina y la tercera de Latinoamérica por capitalización bursátil."
+        },
+        {
+            "id": 10,
+            "img": "valtech.png",
+            "name": "Soporte Técnico",
+            "description": "Valtech es una empresa de consultoría de tecnología y marketing digital con sede en Nueva York. Es una empresa de consultoría de tecnología y marketing digital con sede en Nueva York. Es una empresa de consultoría de tecnología y marketing digital con sede en Nueva York."
+        }
+    ]
+}
